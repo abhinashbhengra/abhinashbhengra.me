@@ -11,7 +11,7 @@ const Projects = () => {
         Some of the projects I worked on:
       </p>
       <div className="lg:flex gap-8 mb-8">
-        <div className="mb-8">
+        <div className="mb-8 flex flex-col justify-between">
           <div className="relative">
             <img
               src="/images/waves-zone.png"
@@ -40,12 +40,12 @@ const Projects = () => {
               <img src="/images/css-logo.svg" alt="css" className="w-6" />
             </span>
           </p>
-          {/* <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae
-            deserunt facilis at nihil pariatur eum tempore, quia nostrum
-            corrupti blanditiis iure ducimus saepe quas, deleniti nam vel
-            distinctio officiis ex.
-          </p> */}
+          <p>
+            Waves-zone has most of the features that normally an eCommerce
+            website has. Headphone theme with a beautiful UI, Sorting/Filtering
+            of products, searching your products, saving them to your wishlist
+            and cart.
+          </p>
           <div className="mt-4 flex">
             <Link href="">
               <div className="border px-4 py-2 mx-1 text-sm font-thin rounded-sm flex gap-1">
@@ -69,7 +69,7 @@ const Projects = () => {
             </Link>
           </div>
         </div>
-        <div className="mb-8">
+        <div className="mb-8 flex flex-col justify-between">
           <div className="relative">
             <img
               src="/images/sociogram.png"
@@ -98,12 +98,11 @@ const Projects = () => {
               <img src="/images/css-logo.svg" alt="css" className="w-6" />
             </span>
           </p>
-          {/* <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque,
-            officiis. Fuga corrupti, aut laborum ducimus porro modi ab sapiente
-            vel tempora exercitationem consectetur iste ad repudiandae veritatis
-            voluptas eos suscipit!
-          </p> */}
+          <p>
+            Sociogram is similar to instagram, It allows you to like/dislike
+            posts, add posts to bookmark list, follow/unfollow user and even
+            edit your user profile.
+          </p>
           <div className="mt-4 flex">
             <Link href="">
               <div className="border px-4 py-2 mx-1 text-sm font-thin rounded-sm flex gap-1">

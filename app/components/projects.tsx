@@ -47,7 +47,7 @@ const Projects = () => {
             and cart.
           </p>
           <div className="mt-4 flex">
-            <Link href="">
+            <Link href="https://waves-zone.vercel.app/" target="blank">
               <div className="border px-4 py-2 mx-1 text-sm font-thin rounded-sm flex gap-1">
                 <p>Live</p>
                 <img
@@ -57,7 +57,10 @@ const Projects = () => {
                 />
               </div>
             </Link>
-            <Link href="">
+            <Link
+              href="https://github.com/abhinashbhengra/Waves-Ecommerce"
+              target="blank"
+            >
               <div className="border px-4 py-2 mx-1 text-sm font-thin rounded-sm flex gap-1">
                 <p>Code</p>
                 <img
@@ -104,7 +107,10 @@ const Projects = () => {
             edit your user profile.
           </p>
           <div className="mt-4 flex">
-            <Link href="">
+            <Link
+              href="https://sociogram-social-media.vercel.app/"
+              target="blank"
+            >
               <div className="border px-4 py-2 mx-1 text-sm font-thin rounded-sm flex gap-1">
                 <p>Live</p>
                 <img
@@ -114,7 +120,10 @@ const Projects = () => {
                 />
               </div>
             </Link>
-            <Link href="">
+            <Link
+              href=" https://github.com/abhinashbhengra/sociogram-social-media"
+              target="blank"
+            >
               <div className="border px-4 py-2 mx-1 text-sm font-thin rounded-sm flex gap-1">
                 <p>Code</p>
                 <img

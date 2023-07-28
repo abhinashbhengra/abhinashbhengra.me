@@ -6,8 +6,8 @@ const Connect = () => {
         Get in touch
       </h1>
       <p className="text-slate-400 mb-8">
-        Do you have a job opportunity or idea you'd like to discuss? Feel free
-        to react me at{" "}
+        Do you have a job opportunity or idea you&apos;d like to discuss? Feel
+        free to react me at{" "}
         <span className="text-transparent bg-clip-text bg-gradient-to-r from-rose-600 to-amber-400">
           abhinashbhengra170dx@gmail.com
         </span>

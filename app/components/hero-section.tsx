@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <div className="lg:flex justify-between items-center lg:px-36 mt-12">
       <div className="px-20 lg:px-4 lg:w-4/5 mb-16 lg:mb-4">
-        <h1 className="text-3xl font-bold mb-4">Hi there, I'm Abhinash</h1>
+        <h1 className="text-3xl font-bold mb-4">Hi there, I&apos;m Abhinash</h1>
         <p className="mb-2">
           I love to
           <span className="p-2">
@@ -61,8 +61,8 @@ const Hero = () => {
               HTML,{" "}
             </RoughNotation>
           </span>
-          I'm skilled, knowledgeable, and equipped to transform design concepts
-          into enjoyable and practical user experiences.
+          I&apos;m skilled, knowledgeable, and equipped to transform design
+          concepts into enjoyable and practical user experiences.
         </p>
         <p className="mt-4">
           My frontend programming abilities have improved as a result of the
@@ -73,7 +73,7 @@ const Hero = () => {
           useful digital solutions.
         </p>
         <p className="mt-4">
-          I'm currently looking for a new role as a developer.
+          I&apos;m currently looking for a new role as a developer.
           <span className="p-2">
             <RoughNotation type="circle" color="#fe5c5c" show>
               Hire me?

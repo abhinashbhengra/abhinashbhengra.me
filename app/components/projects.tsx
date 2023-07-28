@@ -3,7 +3,10 @@ import Link from "next/link";
 
 const Projects = () => {
   return (
-    <div id="projects" className="px-4 lg:px-40 mt-20 mb-20">
+    <div
+      id="projects"
+      className="text-sm lg:text-base tracking-wide leading-6 px-4 lg:px-40 mt-20 mb-20"
+    >
       <h1 className="text-xl lg:text-2xl font-bold mb-2 text-center lg:text-start">
         Projects
       </h1>
@@ -20,7 +23,7 @@ const Projects = () => {
             />
           </div>
 
-          <p className="font-bold mt-4 flex gap-2">
+          <p className="font-bold mt-4 flex gap-2 mb-2">
             Waves-Zone E-commerce App
             <span className="flex gap-1">
               <img src="/images/react-logo.svg" alt="react" className="w-6" />
@@ -69,7 +72,7 @@ const Projects = () => {
             />
           </div>
 
-          <p className="font-bold mt-4 flex gap-2">
+          <p className="font-bold mt-4 flex gap-2 mb-2">
             Sociogram Social Media App
             <span className="flex gap-1">
               <img src="/images/react-logo.svg" alt="react" className="w-6" />
@@ -122,7 +125,7 @@ const Projects = () => {
             />
           </div>
 
-          <p className="font-bold mt-4 flex gap-2">
+          <p className="font-bold mt-4 flex gap-2 mb-2">
             My Portfolio Website
             <span className="flex gap-1">
               <img src="/images/next-js.svg" alt="react" className="w-6" />
@@ -162,7 +165,7 @@ const Projects = () => {
             />
           </div>
 
-          <p className="font-bold mt-4 flex gap-2">
+          <p className="font-bold mt-4 flex gap-2 mb-2">
             Sociogram Social Media App
             <span className="flex gap-1">
               <img src="/images/react-logo.svg" alt="react" className="w-6" />

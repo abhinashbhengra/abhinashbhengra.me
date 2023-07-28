@@ -1,7 +1,7 @@
 import Link from "next/link";
 const Connect = () => {
   return (
-    <div className="px-4 lg:px-40 mb-24">
+    <div className="text-sm lg:text-base tracking-wide leading-6 px-4 lg:px-40 mb-24">
       <h1 className="text-xl lg:text-2xl font-bold mb-2 text-center lg:text-start">
         Get in touch
       </h1>

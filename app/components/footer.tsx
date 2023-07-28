@@ -1,7 +1,7 @@
 import Link from "next/link";
 const Footer = () => {
   return (
-    <div className="px-10 lg:px-40 mb-24 ">
+    <div className="px-4 lg:px-40 mb-24 ">
       <div className="h-0.5 bg-slate-100 mb-4"></div>
       <div className="flex justify-between items-center">
         <p className="text-slate-600 text-xs lg:text-sm">

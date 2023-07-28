@@ -18,7 +18,7 @@ const Projects = () => {
               alt="ecommerce"
               className="w-full h-full shadow-2xl rounded opacity-50"
             />
-            <div className="absolute top-24 right-24 lg:top-36 lg:right-32 text-center">
+            {/* <div className="absolute top-24 right-24 lg:top-36 lg:right-32 text-center">
               <RoughNotation type="highlight" color="#fef3c7" show>
                 <p className="text-black text-2xl lg:text-4xl font-bold ">
                   Waves-Zone
@@ -29,7 +29,7 @@ const Projects = () => {
                   E-commerce App
                 </p>
               </RoughNotation>
-            </div>
+            </div> */}
           </div>
 
           <p className="font-bold mt-4 flex gap-2">
@@ -79,7 +79,7 @@ const Projects = () => {
               alt="sociogram"
               className="w-full h-full opacity-50"
             />
-            <div className="absolute top-24 right-24 lg:top-36 lg:right-32 text-center">
+            {/* <div className="absolute top-24 right-24 lg:top-36 lg:right-32 text-center">
               <RoughNotation type="highlight" color="#e9d5ff" show>
                 <p className="text-white text-2xl lg:text-4xl font-bold">
                   Sociogram
@@ -90,7 +90,7 @@ const Projects = () => {
                   Social Media App
                 </p>
               </RoughNotation>
-            </div>
+            </div> */}
           </div>
 
           <p className="font-bold mt-4 flex gap-2">
@@ -144,16 +144,14 @@ const Projects = () => {
               alt="portfolio"
               className="w-full h-full shadow-2xl rounded opacity-50"
             />
-            <div className="absolute top-24 right-40 lg:top-36 lg:right-48 text-center">
+            {/* <div className="absolute top-24 right-40 lg:top-36 lg:right-48 text-center">
               <RoughNotation type="highlight" color="#000" show>
                 <p className="text-white text-2xl lg:text-4xl font-bold ">
                   Portfolio
                 </p>
               </RoughNotation>
-              {/* <RoughNotation type="box" color="#fff" show>
-                <p className="text-black text-4xl font-bold">E-commerce App</p>
-              </RoughNotation> */}
-            </div>
+              
+            </div> */}
           </div>
 
           <p className="font-bold mt-4 flex gap-2">
@@ -200,7 +198,7 @@ const Projects = () => {
               alt="sociogram"
               className="w-full h-full opacity-50"
             />
-            <div className="absolute top-24 right-24 lg:top-36 lg:right-32 text-center">
+            {/* <div className="absolute top-24 right-24 lg:top-36 lg:right-32 text-center">
               <RoughNotation type="highlight" color="#fda4af" show>
                 <p className="text-white text-2xl lg:text-4xl font-bold">
                   Sociogram
@@ -211,7 +209,7 @@ const Projects = () => {
                   Social Media App
                 </p>
               </RoughNotation>
-            </div>
+            </div> */}
           </div>
 
           <p className="font-bold mt-4 flex gap-2">

@@ -3,7 +3,7 @@ import { RoughNotation } from "react-rough-notation";
 const Hero = () => {
   return (
     <div className="lg:flex justify-between items-center lg:px-36 mt-12">
-      <div className="text-xs md:text-base px-12 lg:px-4 lg:w-4/5 mb-16 lg:mb-4">
+      <div className="text-sm md:text-base px-12 lg:px-4 lg:w-4/5 mb-16 lg:mb-4">
         <h1 className="text-3xl font-bold mb-4">Hi there, I&apos;m Abhinash</h1>
         <p className="mb-2">
           I love to

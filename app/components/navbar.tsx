@@ -8,9 +8,9 @@ export default function Navbar() {
       </div>
       <div className="flex items-center gap-4">
         <Link href="#projects">Projects</Link>
-        {/* <Link href="/about" className="border px-4 py-1">
+        <Link href="/about" className="border px-4 py-1">
           Resume
-        </Link> */}
+        </Link>
         <Link
           className="hidden lg:block"
           href="https://twitter.com/AbhinashBhengra"

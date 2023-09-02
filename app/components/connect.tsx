@@ -9,7 +9,7 @@ const Connect = () => {
         Do you have a job opportunity or idea you&apos;d like to discuss? Feel
         free to react me at{" "}
         <span className="text-transparent bg-clip-text bg-gradient-to-r from-rose-600 to-amber-400">
-          abhinashbhengra170dx@gmail.com
+          abhinashbhengra.dev@gmail.com
         </span>
         . You can also find me on{" "}
         <span className="text-transparent bg-clip-text bg-gradient-to-r from-rose-600 to-amber-400">
